@@ -6,7 +6,7 @@
       class="col-12 col-md-4 col-lg-3 mt-4"
       >
       <RouterLink :to="`/productDetailBoot/${product.id}`" class="text-decoration-none">
-          <section class="card card1" style="height: 470px">
+          <section class="card card1" style="height: auto">
             <div class="img position-relative">
               <img
                 :src="product.image"

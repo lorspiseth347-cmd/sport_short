@@ -31,7 +31,7 @@
           :to="`/productDetailAcc/${product.id}`"
           class="text-decoration-none"
         >
-          <section class="card card1" style="height: 470px">
+          <section class="card card1" style="height: auto">
             <div class="img position-relative">
               <img
                 :src="product.image"
