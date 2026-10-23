@@ -1,4 +1,4 @@
-```vue
+
 <template>
   <div class="contact-page">
     <!-- Hero Section -->
@@ -593,4 +593,4 @@ function submitForm() {
   }
 }
 </style>
-```
+
