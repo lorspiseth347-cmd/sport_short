@@ -77,14 +77,14 @@ import { footballShirt } from "../data/Product";
 
   <!-- footer -->
 
-  <div class="container-fluid bg-warning py-4 mt-4">
+  <div class="container-fluid bg-warning py-4">
     <div class="row">
-      <div class="col-12 col-md-6 col-lg-6">
+      <div class="col-12 col-md-3 col-lg-6">
        <div class="ms-4">
-         <h1 class="fw-bold "><span class="bg-warning fw-bold">PS</span> <span class="text-white">Shop</span></h1>
+         <h1 class="fw-bold "><span class="bg-warning fw-bold">PS</span> <span class="text-white"> Shop</span></h1>
        </div>
       </div>
-      <div class="col-12 col-md-6 col-lg-6">
+      <div class="col-12 col-md-9 col-lg-6">
         <div class="row">
           <div class="col-3 col-md-4 col-lg-4">
             <ul style="list-style-type: none">

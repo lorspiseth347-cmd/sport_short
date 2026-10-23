@@ -54,6 +54,95 @@
       </div>
     </div>
   </div>
+
+   <!-- footer -->
+
+  <div class="container-fluid bg-warning py-4">
+    <div class="row">
+      <div class="col-12 col-md-3 col-lg-6">
+       <div class="ms-4">
+         <h1 class="fw-bold "><span class="bg-warning fw-bold">PS</span> <span class="text-white"> Shop</span></h1>
+       </div>
+      </div>
+      <div class="col-12 col-md-9 col-lg-6">
+        <div class="row">
+          <div class="col-3 col-md-4 col-lg-4">
+            <ul style="list-style-type: none">
+              <h4 class="fw-bold">Feature</h4>
+              <li>
+                <RouterLink class="text-decoration-none text-dark" to="/"
+                  >Home</RouterLink
+                >
+              </li>
+              <li>
+                <RouterLink class="text-decoration-none text-dark" to="/about"
+                  >About</RouterLink
+                >
+              </li>
+              <li>
+                <RouterLink class="text-decoration-none text-dark" to="/contact"
+                  >Contact</RouterLink
+                >
+              </li>
+              <li>
+                <RouterLink class="text-decoration-none text-dark" to="/boot"
+                  >Product</RouterLink
+                >
+              </li>
+            </ul>
+          </div>
+          <div class="col-3 col-md-4 col-lg-4">
+            <ul style="list-style-type: none">
+              <h4 class="fw-bold">Product</h4>
+              <li>
+                <RouterLink class="text-decoration-none text-dark" to="/boot"
+                  >Boot</RouterLink
+                >
+              </li>
+              <li>
+                <RouterLink class="text-decoration-none text-dark" to="/shirt"
+                  >Shirt</RouterLink
+                >
+              </li>
+              <li>
+                <RouterLink
+                  class="text-decoration-none text-dark"
+                  to="/accessories"
+                  >Accessories</RouterLink
+                >
+              </li>
+            </ul>
+          </div>
+          <div class="col-6 col-md-4 col-lg-4 ">
+            <ul style="list-style-type: none;" >
+              <h4 class="fw-bold">Contact us</h4>
+              <li>
+                <RouterLink to="#" class="text-dark text-decoration-none"
+                  ><i class="bi bi-facebook"></i> Facebook</RouterLink
+                >
+              </li>
+              <li>
+                <RouterLink to="#" class="text-dark text-decoration-none"
+                  ><i class="bi bi-telegram"></i> Telegram</RouterLink
+                >
+              </li>
+              <li>
+                <RouterLink to="#" class="text-dark text-decoration-none"
+                  ><i class="bi bi-tiktok"></i> Tik Tok</RouterLink
+                >
+              </li>
+              <li>
+                <RouterLink to="#" class="text-dark text-decoration-none"
+                  ><i class="bi bi-youtube"></i> YouTube</RouterLink
+                >
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </template>
 <script setup lang="ts">
 import { computed } from "vue";
