@@ -261,7 +261,7 @@
 
   <div class="container-fluid bg-warning py-4">
     <div class="row">
-      <div class="col-12 col-md-6 col-lg-6">
+      <div class="col-12 col-md-4 col-lg-6">
         <div class="ms-4">
           <h1 class="fw-bold">
             <span class="bg-warning fw-bold">PS</span>
@@ -269,7 +269,7 @@
           </h1>
         </div>
       </div>
-      <div class="col-12 col-md-6 col-lg-6">
+      <div class="col-12 col-md-8 col-lg-6">
         <div class="row">
           <div class="col-3 col-md-4 col-lg-4">
             <ul style="list-style-type: none">
