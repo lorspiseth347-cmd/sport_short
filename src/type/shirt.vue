@@ -65,7 +65,7 @@ import { footballShirt } from "../data/Product";
               <h5 class="card-title fw-bold" style="min-height: 50px">
                 {{ product.title }}
               </h5>
-              <p class="card-text" style="min-height: 120px;">
+              <p class="card-text" >
                 {{ product.description }}
               </p>
             </div>
