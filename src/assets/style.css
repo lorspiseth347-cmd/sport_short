@@ -1,0 +1,14 @@
+
+.cat:hover {
+ transform: translateY(-10px);
+}
+.cat{
+    transition: 0.4s;
+}
+
+.card1:hover {
+transform: translateY(-10px);
+}
+.card1{
+    transition: 0.4s;
+}
