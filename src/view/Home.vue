@@ -114,7 +114,7 @@
         <RouterLink to="/shirt" class="text-decoration-none text-dark">
           <div class="text-center m-4">
             <img
-              style="width: 300px; height: 300px"
+              style="width: 300px; "
               class="shadow cat img-fluid rounded"
               src="https://cdn.media.amplience.net/i/frasersdev/37868718_o?fmt=auto&upscale=false&w=345&h=345&v=1&sm=c&$h-ttl$"
               alt="shoes"
@@ -128,7 +128,7 @@
           <div class="text-center m-4">
             <img
               class="img-fluid rounded shadow cat"
-              style="width: 300px; height: 300px"
+              style="width: 300px; "
               src="https://img.kwcdn.com/product/fancy/a4f713b5-44a4-4662-a876-3fe334d06b37.jpg?imageView2/2/w/500/q/60/format/webphttps://cdn.shopify.com/s/files/1/0695/5689/5834/files/1047495_main.jpg?v=1791999067&width=800"
               alt="shoes"
             />
